@@ -1,0 +1,19 @@
+# Java
+*.class
+out/
+target/
+build/
+.gradle/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# JavaScript
+node_modules/
+
+# Local editor / OS files
+.idea/
+.DS_Store
+Thumbs.db
