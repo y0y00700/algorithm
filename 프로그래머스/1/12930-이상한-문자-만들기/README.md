@@ -4,7 +4,7 @@
 - 난이도: Lv. 1
 - 제출 언어: java
 - 제출 일자: 2026-11-06
-- 채점 결과: 테스트를 통과하였습니다.
+- 채점 결과: 코딩테스트 연습연습문제이상한 문자 만들기 도움말 컴파일 옵션 이상한 문자 만들기 제출 내역 sublime vim emacs Java C C++ C# Go Java JavaScript Kotlin Python3 Rub
 
 ## 문제 설명
 
