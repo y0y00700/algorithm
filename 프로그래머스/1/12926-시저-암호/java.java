@@ -1,5 +1,4 @@
 class Solution {
-public String solution(String s, int n) {
     public String solution(String s, int n) {
         String answer = "";
         for(long c : s.toCharArray()){
