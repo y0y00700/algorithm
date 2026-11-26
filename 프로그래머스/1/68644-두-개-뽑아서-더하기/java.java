@@ -12,7 +12,7 @@ class Solution {
                 s.add(numbers[i]+numbers[j]);
             }
         }
-        answer = s.stream().mapToInt(Integer::intValue).toArray();
+        answer = s.stream().mapToInt(Integer::intValue).sorted().toArray();
         return answer;
     }
 }
